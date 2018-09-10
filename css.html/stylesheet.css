@@ -1,0 +1,55 @@
+
+
+.MAKING{
+  color:#6B8E23;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bowlby One SC', cursive;
+  font-size:100PX;
+  text-align: center;
+
+}
+.YOUR{
+  color:#FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bowlby One SC', cursive;
+  font-size:80PX;
+  text-align: center;
+
+}
+.WEB{
+  color:#4682B4;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bowlby One SC', cursive;
+  font-size:80PX;
+  text-align: center;
+
+
+}
+.WORK{
+  color:#800000;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bowlby One SC', cursive;
+  font-size:130PX;
+  text-align: center;
+}
+h3{
+  color:#4682B4;
+  font-family: 'Bree Serif', serif;
+  font-size:80px
+  text-align: center;
+}
+
+
+
+body{
+  /*background-image:url(granito.png)*/
+  text-align: justify;
+  background/*-color*/:#A9A9A9;
+  text-align: center;
+  color:#000000;
+
+
+  }
+}
+
+}
